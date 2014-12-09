@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hoiwanlouis/AndroidStudioProjects/MyBoggle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/hoiwanlouis/AndroidStudioProjects/MyBoggle/app/build/intermediates/pre-dexed/debug/classes-0e17e479bc2cdc38281fc6db844483ab2d1123c2.jar" />
+    </item>
+    <item
+        jar="/Users/hoiwanlouis/AndroidStudioProjects/MyBoggle/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/hoiwanlouis/AndroidStudioProjects/MyBoggle/app/build/intermediates/pre-dexed/debug/classes-68dcb25935ac1d06a7edd130e38457c3b533ca3e.jar" />
+    </item>
+    <item
+        jar="/Users/hoiwanlouis/AndroidStudioProjects/MyBoggle/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/hoiwanlouis/AndroidStudioProjects/MyBoggle/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-fabca51bfaa42921ec153dbe4b287851ffc0df93.jar" />
+    </item>
+    <item
+        jar="/Users/hoiwanlouis/Documents/AndroidStudioSDK/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/hoiwanlouis/AndroidStudioProjects/MyBoggle/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-52902b7b3cf31153da4caad7ca47cc25b0c773aa.jar" />
+    </item>
+
+</items>
