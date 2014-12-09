@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:entries="@array/size_of_boggle_grid_description"
+        android:entryValues="@array/size_of_boggle_grid"
+        android:key="@string/boggle_grid_size_key"
+        android:persistent="true"
+        android:summary="@string/number_of_boggle_dice_description"
+        android:title="@string/number_of_boggle_dice"
+        android:defaultValue="@string/default_size_of_boggle_grid"
+        />
+
+</PreferenceScreen>
