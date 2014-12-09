@@ -20,17 +20,17 @@
             </intent-filter>
 
             <activity
-                android:name="com.example.hoiwanlouis.myboggle.BoardActivity"
+                android:name="com.hoiwanlouis.myboggle.BoardActivity"
                 android:label="@string/board_activity"
-                android:parentActivityName="com.example.hoiwanlouis.myboggle.WelcomeActivity">
+                android:parentActivityName="com.hoiwanlouis.myboggle.WelcomeActivity">
                 <meta-data
                     android:name="android.support.PARENT_ACTIVITY"
-                    android:value="com.example.hoiwanlouis.myboggle.WelcomeActivity"
+                    android:value="com.hoiwanlouis.myboggle.WelcomeActivity"
                     />
             </activity>
 
             <activity
-                android:name=".SettingsActivity"
+                android:name="com.hoiwanlouis.myboggle.SettingsActivity"
                 android:label="@string/settings_activity" >
             </activity>
 
