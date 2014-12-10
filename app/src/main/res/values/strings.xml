@@ -23,7 +23,7 @@
     -->
     <string name="action_settings">Boggle Action Settings</string>
     <string name="settings_activity">Boggle Settings Activity</string>
-    <string name="boggle_shared_preferences_file">com.example.hoiwanlouis.s06e51_hoiboggle.pref</string>;
+    <string name="boggle_shared_preferences_file">com.hoiwanlouis.myboggle.pref</string>;
     <string name="boggle_grid_size_key">pref_boggle_grid_size</string>;
     <string name="boggle_high_score_key">pref_boggle_high_score</string>;
 
