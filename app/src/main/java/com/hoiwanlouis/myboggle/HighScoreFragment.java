@@ -31,7 +31,7 @@ import android.view.ViewGroup;
  * Activities that contain this fragment must implement the
  * {@link com.hoiwanlouis.myboggle.HighScoreFragment.OnFragmentInteractionListener} interface
  * to handle interaction events.
- * Use the {@link com.hoiwanlouis.myboggle.HighScoreFragment#newInstance} factory method to
+ * Use the {@link HighScoreFragment#newInstance} factory method to
  * create an instance of this fragment.
  *
  */
